@@ -6,7 +6,7 @@
 }
 
 body {
-  color: antiquewhite;
+  color: rgb(198, 191, 182);
   justify-content: center;
   align-items: center;
   padding: 10px;
@@ -44,4 +44,5 @@ section {
   display: flex;
   justify-content: center;
   text-align: center;
+  line-height: 25px;
 }
